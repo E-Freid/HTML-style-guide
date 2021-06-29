@@ -21,7 +21,8 @@
 h2{
     text-align: center;
     font-size: 38px;
-    font-family: "Fanwood Text";
+    font-family: Oswald;
+    text-decoration: underline;
 }
 
 .yellow{
@@ -46,4 +47,24 @@ h2{
 
 .black_text{
     color: black;
+}
+
+#fraunces{
+    font-family: 'Fraunces', serif;
+}
+
+#oswald{
+    font-family: 'Oswald', sans-serif;
+}
+
+#sansita{
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
 }
