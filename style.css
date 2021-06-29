@@ -1,0 +1,43 @@
+#box {
+    border: 2px solid gray;
+    width: 100%;
+    margin: 10px auto;
+}
+
+#box section{
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+    margin: 20px;
+    min-height: 100px;
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+#box h2{
+    text-align: center;
+}
+
+.yellow{
+    background-color: #F4D03F;
+}
+
+.gray{
+    background-color: #B2BABB;
+}
+
+.green{
+    background-color: #76D7C4;
+}
+
+.black{
+    background-color: #212F3D;
+}
+
+.white_text{
+    color: white;
+}
+
+.black_text{
+    color: black;
+}
